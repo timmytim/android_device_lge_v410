@@ -1,1 +1,1 @@
-add_lunch_combo cm_v410-userdebug
+add_lunch_combo candy5_v410-userdebug
